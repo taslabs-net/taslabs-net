@@ -19,6 +19,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: -5
-          THEME: gruvbox
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
