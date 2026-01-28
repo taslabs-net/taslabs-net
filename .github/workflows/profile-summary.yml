@@ -12,9 +12,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
