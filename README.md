@@ -1,7 +1,3 @@
-# TAS Labs
-
-Building tools and infrastructure with a focus on Cloudflare, networking, and homelab automation.
-
 ## Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -21,12 +17,3 @@ Building tools and infrastructure with a focus on Cloudflare, networking, and ho
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 ![Thunderbolt](https://img.shields.io/badge/Thunderbolt_4-00A1DE?style=flat&logo=thunderbolt&logoColor=white)
-
-## Featured Projects
-
-- **[AnyAuth](https://github.com/taslabs-net/anyauth)** - Authentication solution monorepo
-- **[PVE9_TB4](https://github.com/taslabs-net/PVE9_TB4)** - Thunderbolt 4 + Ceph cluster on Proxmox VE
-- **[cloudflared-pfsense](https://github.com/flarelylegal/cloudflared-pfsense)** - Easy Cloudflared integration for pfSense
-- **[cf-paperless-worker](https://github.com/taslabs-net/cf-paperless-worker)** - Email attachment processor for Paperless
-- **[cfsecureshare](https://github.com/taslabs-net/cfsecureshare)** - Secure file sharing with Cloudflare Workers
-
