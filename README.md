@@ -17,3 +17,11 @@
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 ![Thunderbolt](https://img.shields.io/badge/Thunderbolt_4-00A1DE?style=flat&logo=thunderbolt&logoColor=white)
+
+## Stats
+
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/gruvbox/3-stats.svg)
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/gruvbox/4-productive-time.svg)
