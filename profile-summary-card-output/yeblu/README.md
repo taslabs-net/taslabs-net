@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/taslabs-net/taslabs-net/main/profile-summary-card-output/yeblu/4-productive-time.svg)
+```
+
+    
